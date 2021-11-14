@@ -1,0 +1,5 @@
+POST http://127.0.0.1:8000/api/show/3
+# GET http://127.0.0.1:8000/api/user
+Content-Type: application/json
+Accept: application/json
+Authorization: Bearer SaxTj9ochQSoD3nYxEUuQr5PHeaqlITjFm76Vj4T
